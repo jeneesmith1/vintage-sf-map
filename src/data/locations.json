@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Held Over",
+    "street": "1543 Haight Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94117",
+    "url": "http://retrocity.com/",
+    "pos": {"lat":37.769630,"lng":-122.447670},
+    "yelp": "held-over-san-francisco"
+  },
+  {
+    "name": "No SHOP",
+    "street": "389 Valencia Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94113",
+    "url": "https://www.yelp.com/biz/no-shop-san-francisco",
+    "pos": {"lat":37.760350,"lng":-122.421450},
+    "yelp": "no-shop-san-francisco"
+  },
+  {
+    "name": "Stuff",
+    "street": "150 Valencia Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94103",
+    "url": "https://www.stuffsf.com/",
+    "pos": {"lat":37.770570,"lng":-122.422860},
+    "yelp": "stuff-san-francisco"
+  },
+  {
+    "name": "Sunchild's Parlor",
+    "street": "1665 Haight Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94117",
+    "url": "https://www.yelp.com.au/biz/sunchilds-parlour-san-francisco?osq=decades+of+fashion",
+    "pos": {"lat":37.769530,"lng":-122.449910},
+    "yelp": "sunchilds-parlour-san-francisco"
+  },
+  {
+    "name": "Schauplatz",
+    "street": "791 Valencia St",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94110",
+    "url": "https://www.yelp.com.au/biz/schauplatz-san-francisco?osq=decades+of+fashion",
+    "pos": {"lat":37.760350,"lng":-122.421450},
+    "yelp": "schauplatz-san-francisco"
+  },
+  {
+    "name": "Wasteland",
+    "street": "1660 Haight Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94117",
+    "url": "https://www.yelp.com/biz/wasteland-san-francisco",
+    "pos": {"lat":37.769950,"lng":-122.449630},
+    "yelp": "wasteland-san-francisco"
+  },
+  {
+    "name": "Relic Vintage",
+    "street": "1605 Haight Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94117",
+    "url": "https://www.yelp.com/biz/relic-vintage-san-francisco",
+    "pos": {"lat":37.772520,"lng":-122.427190},
+    "yelp": "relic-vintage-san-francisco"
+
+  },
+  {
+    "name": "Cris Consignment",
+    "street": "2056 Polk Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94109",
+    "url": "https://www.yelp.com.au/biz/cris-consignment-san-francisco?osq=decades+of+fashion",
+    "pos": {"lat":37.801540,"lng":-122.4229204},
+    "yelp": "cris-consignment-san-francisco"
+  },
+  {
+    "name": "Pikitos",
+    "street": "2336 Mission Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94110",
+    "url": "https://www.yelp.com.au/biz/pikitos-san-francisco?osq=decades+of+fashion",
+    "pos": {"lat":37.740100,"lng":-122.423430},
+    "yelp": "pikitos-san-francisco"
+  },
+  {
+    "name": "Fashion Exchange",
+    "street": "1446 Polk Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94109",
+    "url": "https://www.yelp.com.au/biz/fashion-exchange-san-francisco-4?osq=decades+of+fashion",
+    "pos": {"lat":37.801540,"lng":-122.422920},
+    "yelp": "fashion-exchange-san-francisco"
+  }
+]
