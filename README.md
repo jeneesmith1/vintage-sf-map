@@ -5,3 +5,4 @@ I created a single page app to showcase some of the unique vintage thrift stores
 
 To view this, go to 
 
+https://vintage-stores-sf-map.herokuapp.com/
